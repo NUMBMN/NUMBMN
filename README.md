@@ -1,4 +1,4 @@
-# Hi there, I'm IM NUMI 👋
+# Hi there, I'm NUMI 👋
 
 <marquee behavior="scroll" direction="left" scrollamount="10">
 🌟 Welcome to my GitHub profile! 🌟
