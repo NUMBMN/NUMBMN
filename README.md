@@ -6,4 +6,4 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/wjdAWfr7TCgIV7PVgs/giphy.gif)
